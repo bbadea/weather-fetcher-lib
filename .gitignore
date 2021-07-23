@@ -1,3 +1,6 @@
+# igonre build folder
+build/
+
 # Prerequisites
 *.d
 
